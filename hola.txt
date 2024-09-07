@@ -1,0 +1,5 @@
+Hola como estan 
+yo soy Mike 
+y hoy les voy a mostrar 
+como se puede hacer 
+un archivo txt
